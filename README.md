@@ -1,3 +1,7 @@
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-%230C4B33.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
 # Diabetes Tracker Mobile App
 
 A professional mobile application built with Flutter, Laravel, and BLoC.
