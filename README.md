@@ -7,7 +7,7 @@ A professional mobile application built with Flutter, Laravel, and BLoC.
 ### 1. Login Screen
 <img src="Screenshot_20260724_153317.png" width="300" alt="Login Screen">
 
-### 2. Dashboard Screen
+### 2. Home page
 <img src="Screenshot_20260724_160624.png" width="300" alt="Dashboard Screen">
 
 ### 3. Screen Title
